@@ -1,10 +1,12 @@
 
-Ever tried to indent a line twice? `2>>` would give an unexpected result, indenting two lines once instead.
+Ever tried to indent a line twice?   
+`2>>` would give an unexpected result -- two lines indented once.  
 Vim-multident makes `>` work as intended.
 
 With vim-multident, 
-to indent the current line twice, type `2>>`.
-Similar to native vim, the operator `>` is used with a motion. 
+to indent the current line twice, type `2>>`.  
+
+Similar to native vim, the operator `>` is used with a motion.   
 For example, to indent three lines twice, type 
 
 ```
@@ -13,9 +15,9 @@ For example, to indent three lines twice, type
 
 This can also be applied to text-objects. For example, 
 
-     ```
-     2>ip
-     ```
+```
+2>ip
+```
 
 indents the current paragraph twice.
 
