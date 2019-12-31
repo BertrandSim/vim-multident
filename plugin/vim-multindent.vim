@@ -1,10 +1,10 @@
+" Copyright (C) 2019 Bertrand Sim
+
 " This plugin expands the < and > operators with a count, 
 " to indent/dedent lines multiple times.
 
-" (done): s:, SID
 " TODO: custom maps
 " TODO: option to omap last char = line  (eg. ghh, gll = gh_, gl_)
-" TODO: license
 
 
 " main {{{
