@@ -4,8 +4,8 @@ Ever tried to indent a line multiple times?
 If you thought `2>>` indents the current line 2 times, you would be in for a surprise
 --- two lines would be indented only once.  
 
-Vim-multindent modifies the behaviour of `>` with a count, and makes it work as 
-		indented.
+Vim-multindent modifies the behaviour of `>` with a count, and makes it work as   
+		*indented*.
 
 ## Usage
 
