@@ -4,6 +4,7 @@
 " (done): s:, SID
 " TODO: custom maps
 " TODO: option to omap last char = line  (eg. ghh, gll = gh_, gl_)
+" TODO: license
 
 
 " main {{{
